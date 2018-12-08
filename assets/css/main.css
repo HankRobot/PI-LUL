@@ -2186,8 +2186,12 @@ input, select, textarea {
 			margin-bottom: 0;
 		}
 
+		#header header h1 span{
+			background-color: rgba(128, 128, 128, 0.5);
+		}
+
 		#header header p span{
-			background-color: rgba(128, 128, 128, 0.4);
+			background-color: rgba(128, 128, 128, 0.5);
 		}
 
 		#header header p {
@@ -2197,6 +2201,10 @@ input, select, textarea {
 			font-size: 1.25em;
 			line-height: 1.5em;
 			text-align: center;
+		}
+
+		#header footer span{
+			background-color: rgba(128, 128, 128, 0.5);
 		}
 
 		#header footer {
