@@ -2203,10 +2203,6 @@ input, select, textarea {
 			text-align: center;
 		}
 
-		#header footer span{
-			background-color: rgba(128, 128, 128, 0.5);
-		}
-
 		#header footer {
 			padding-top: 1.5em;
 		}
