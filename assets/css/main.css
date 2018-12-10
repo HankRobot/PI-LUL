@@ -2228,11 +2228,11 @@ input, select, textarea {
 	}
 
 	#body header h1 span{
-		background-color: rgba(128, 128, 128, 0.4);
+		background-color: rgba(128, 128, 128, 0.3);
 	}
 
 	#body header p span{
-		background-color: rgba(128, 128, 128, 0.4);
+		background-color: rgba(128, 128, 128, 0.6);
 	}
 
 	#body header p {
